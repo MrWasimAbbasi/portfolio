@@ -1,0 +1,160 @@
+{
+  "name": "M. Wasim Abbasi",
+  "logo_name": "wasim-abbasi",
+  "role": "Full-Stack Developer",
+  "about": {
+    "sections": {
+      "professional-info": {
+        "title": "professional-info",
+        "icon": "icons/info-professional.svg",
+        "info": {
+          "experience": {
+            "title": "experience",
+            "description": "<br>Over the past 5 years, I worked as Full-Stack Web Developer, Equipped with a record of success\nconsistently identifying and providing the technological needs of companies\nthrough ingenious innovation."
+          },
+          "skills": {
+            "title": "skills",
+            "description": "<br>I have strong experience with following tools & tech. PHP, Laravel, Yii, CI, Node, MongoDB, RDS, React, Linux, AWS, SNS, SQS, EC2, Git etc."
+          }
+        }
+      },
+      "personal-info": {
+        "title": "personal-info",
+        "icon": "icons/info-personal.svg",
+        "info": {
+          "bio": {
+            "title": "bio",
+            "description": "<br> About me <br> Developer with 4 years of experience, Equipped with a record of success\nconsistently identifying and providing the technological needs of companies\nthrough ingenious innovation."
+          },
+          "interests": {
+            "title": "interests",
+            "description": "<br>Regularly follow industry blogs, news websites, and forums to stay informed about the latest trends, tools, and technologies in the software development landscape.\nConsider subscribing to newsletters or joining communities that engage in discussions on emerging technologies, programming languages, and best practices.\n"
+          },
+          "education": {
+            "title": "education",
+            "description": "<br>I am graduated in Bachelors of Information & Technology.",
+            "files": {
+              "University of Gujrat": "University of Gujrat",
+              "G.H.S Bakote Shareef": "G.H.S Bakote Shareef"
+            }
+          }
+        }
+      },
+      "hobbies-info": {
+        "title": "hobbies-info",
+        "icon": "icons/info-hobbies.svg",
+        "info": {
+          "sports": {
+            "title": "sports",
+            "description": "<br>I love to participate in games."
+          },
+          "favorite-games": {
+            "title": "favorite-games",
+            "description": "<br>Cricket."
+          }
+        }
+      }
+    }
+  },
+  "contacts": {
+    "direct": {
+      "title": "contacts",
+      "sources": {
+        "email": "imwasimabbasi@gmail.com",
+        "phone": "+92-341-5327629"
+      }
+    },
+    "social": {
+      "github": {
+        "title": "Github profile",
+        "url": "https://github.com/",
+        "user": "MrWasimAbbasi"
+      },
+      "twitter": {
+        "title": "Twitter account",
+        "url": "https://twitter.com/",
+        "user": "WasimAbbaci"
+      }
+    },
+    "find_me_also_in": {
+      "title": "find-me-also-in",
+      "sources": {
+        "twitter": {
+          "title": "Twitter account",
+          "url": "https://twitter.com/",
+          "user": "WasimAbbaci"
+        },
+        "instagram": {
+          "title": "Instagram account",
+          "url": "https://instagram.com/",
+          "user": "mrwaseemabbasi"
+        }
+      }
+    }
+  },
+  "gists": {
+    "1": "92967399e9b5290d4ecb3ec607a51ae0",
+    "2": "90a8e6892c803c82012aeb8a446ed6b7"
+  },
+  "projects": {
+    "1": {
+      "title": "AJKED CERP",
+      "description": "A complete & customized enterprise solution for managing the HR, Inventory & Daily Routine tasks in one application.",
+      "img": "/images/projects/ajked-cerp.png",
+      "tech": [
+        {
+          "icon": "laravel",
+          "title": "Laravel"
+        },
+        {
+          "icon": "graphql",
+          "title": "GraphQL"
+        },
+        {
+          "icon": "vue",
+          "title": "Vue JS"
+        },
+        {
+          "icon": "apollo",
+          "title": "Apollo Client"
+        }
+      ],
+      "type": "Private",
+      "url": "https://github.com/"
+    },
+    "2": {
+      "title": "Jamila Sultana Foundation MGMT System",
+      "description": "A complete & customize solution for managing the blood and donors related details for thalassemia patients with comprehensive reports.",
+      "img": "/images/projects/jsf.png",
+      "tech": [
+        {
+          "icon": "laravel",
+          "title": "Laravel"
+        },
+        {
+          "icon": "rest-api",
+          "title": "REST API"
+        },
+        {
+          "icon": "vue",
+          "title": "Vue JS"
+        }
+      ],
+      "type": "Private",
+      "url": "https://github.com/"
+    },
+    "3": {
+      "title": "AJKED Commercial",
+      "description": "State of the art commercial ranking project for electricity usage and relevant details.",
+      "img": "/images/projects/ajked-commercial.png",
+      "tech": [
+        {
+          "icon": "yii",
+          "title": "Yii Framework"
+        }
+      ],
+      "type": "Private",
+      "url": "https://github.com/"
+    }
+  }
+}
