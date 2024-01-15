@@ -59,7 +59,7 @@ of the things you can change:
 1. Generate a full static production build
 
 ```sh
-yarn build
+yarn build & **yarn generate** for dist folder.
 ```
 
 2. Preview the site as it will appear once deployed.

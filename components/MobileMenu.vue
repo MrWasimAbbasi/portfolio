@@ -27,6 +27,11 @@
         <NuxtLink id="nav-link-mobile" to="/contact-me" :class="{ active: isActive('/contact-me') }" @click="toggleMobileMenu()">
           _contact-me
         </NuxtLink>
+
+        <NuxtLink id="nav-link-contact" to="/resume" :class="{ active: isActive('/resume')}">
+              _resume
+        </NuxtLink>
+
     </div>
 
   </div>
