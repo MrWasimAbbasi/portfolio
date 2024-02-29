@@ -3,7 +3,7 @@
 * https://nuxt.com/docs/getting-started/configuration#app-configuration
 */
 export default defineAppConfig({
-    title: 'Hello Nuxt',
+    title: 'Hello World, I am M. Wasim. Full-Stack Developer',
     blog:{
       enabled: true,
     },
