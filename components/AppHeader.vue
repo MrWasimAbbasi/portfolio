@@ -23,6 +23,10 @@
               _resume
             </NuxtLink>
 
+            <NuxtLink id="nav-link-contact" to="/goals2024" :class="{ active: isActive('/goals2024')}">
+              _goals2024
+            </NuxtLink>
+
           </div>
 
           <NuxtLink id="nav-link-contact" to="/contact-me" :class="{ active: isActive('/contact-me')}">
