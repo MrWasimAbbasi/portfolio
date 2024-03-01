@@ -19,8 +19,6 @@
     "@pdftron/webviewer": "^10.6.0",
     "aos": "^3.0.0-beta.6",
     "highlight.js": "^11.7.0",
-    "pdf-viewer-vue": "^0.2.7",
-    "pspdfkit": "^2023.5.4",
-    "vue-pdf": "^4.3.0"
+    "pdf-viewer-vue": "^0.2.7"
   }
 }

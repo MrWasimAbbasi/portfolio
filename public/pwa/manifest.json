@@ -1,13 +1,13 @@
 {
-    "name": "Portfolio for Developers Concept v2",
-    "short_name": "Developer Portfolio",
-    "description": "A awesome portfolio template for developers",
-    "start_url": "https://developer-portfolio-v1.netlify.app/",
+    "name": "M. Wasim Abbasi Portfolio",
+    "short_name": "Wasim",
+    "description": "Sr. Full-Stack Web Developer",
+    "start_url": "https://m-wasim.dev/",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#010C15",
     "theme_color": "#010C15",
-    "scope": "https://developer-portfolio-v1.netlify.app/",
+    "scope": "https://m-wasim.dev/",
     "icons": [{
         "src": "icons/icon48.png",
         "sizes": "48x48",
