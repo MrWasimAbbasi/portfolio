@@ -1,6 +1,7 @@
 <template>
   <MobileMenu/>
   <AppHeader/>
+  <div class="css-blurry-gradient-red"></div>
   <NuxtPage data-aos="fade-in"/>
   <AppFooter/>
 </template>
@@ -34,9 +35,9 @@ export default {
         
         // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
         offset: 120, // offset (in px) from the original trigger point
-        delay: 0, // values from 0 to 3000, with step 50ms
-        duration: 400, // values from 0 to 3000, with step 50ms
-        easing: 'ease', // default easing for AOS animations
+        delay: 20, // values from 0 to 3000, with step 50ms
+        duration: 20, // values from 0 to 3000, with step 50ms
+        easing: 'ease-in-out-back', // default easing for AOS animations
         once: false, // whether animation should happen only once - while scrolling down
         mirror: false, // whether elements should animate out while scrolling past them
         anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
@@ -44,3 +45,19 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+.css-blurry-gradient-red {
+  position: absolute;
+  top: 5%;
+  right: 80%;
+  width: 300px;
+  height: 300px;
+	border-radius: 0% 0% 50% 50%;
+  rotate: 10deg;
+	filter: blur(100px);
+  background: radial-gradient(circle at 10% 10%,rgb(188, 48, 165), rgba(186, 181, 88, 0));
+  opacity: 0.5;
+  z-index: 10;
+}
+</style>
