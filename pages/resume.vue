@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>File</h1>
+    <h1>M. Wasim Resume</h1>
 
     <PDFViewer
       :source="url"
