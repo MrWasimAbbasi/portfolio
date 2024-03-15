@@ -46,7 +46,7 @@ The portfolio template includes some default content, but you can easily customi
 of the things you can change:
 
 * Update the `developer.json` file on root directory, which contains all the text for the project and the portfolio "
-  user" information, including *projects*, *about-me*, *gists* (Ids) and *contact* info.
+  user" information, including *projects*, *about-me*, *gists* (Ids), *goals*, *resume* and *contact* info.
 
 * Update the `nuxt.config.ts` file for meta tags of website and some additional config.
 
